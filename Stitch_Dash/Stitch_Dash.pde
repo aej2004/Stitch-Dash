@@ -49,7 +49,7 @@ int obsInterval = 3000;
 
 int gameStartTime;
 int gameEndTime;
-int gameInterval = 10000;
+int gameInterval = 30000;
 
 void setup(){
   
